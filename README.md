@@ -1,0 +1,2 @@
+# greekMcWiki
+Wiki for GreekMC
